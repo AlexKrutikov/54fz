@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "install/Установка.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "install/Установка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "install/Установка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "install/Установка.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "2ed54c2e5d4a9830",
   "lastOpenFiles": [
-    "[[Установка]].md",
     "README.md",
     "install/Установка.md",
+    "[[/install/Установка.md]].md",
+    "[[Установка]].md",
     "().md",
     "2023-02-20.md",
     "Без названия.canvas"
